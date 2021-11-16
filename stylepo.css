@@ -1,0 +1,17 @@
+body {background-color:rgb(108, 123, 139);
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  .A-x{ margin-left:450px; background-color:white; border:hidden; width:250px; margin-top:45px; }
+  .icon {width:60%; margin-bottom:20px; margin-left:25px;}
+  
+  .lab {margin-bottom:10px;}
+  
+  .put {width:230px; height:15px; margin-top:5px;  margin-bottom:8px; }
+  
+  .putp {width:250px; height:30px; margin-top:5px; margin-bottom:20px;}
+  
+  .sb {margin-left:23px; background-color:rgb(24, 116, 205); width:200px; height:30px; border:hidden; color:white;}
